@@ -329,12 +329,12 @@ h2.slogan{
 }
 .progress li span.photoshop{width: 100%;}
 .progress li span.illustrator{width: 70%;}
-.progress li span.indesign{width: 40%;}
-.progress li span.flash{width: 80%;}
+.progress li span.coreldraw{width: 40%;}
+.progress li span.premiere{width: 80%;}
 .progress li span.html{width: 75%;}
 .progress li span.wordpress{width: 85%;}
-.progress li span.jquery{width: 70%;}
-.progress li span.seo{width: 40%;}
+.progress li span.mysql{width: 40%;}
+.progress li span.css{width: 70%;}
 .plagin_list{
 	width: 100%;
 	overflow: hidden;
